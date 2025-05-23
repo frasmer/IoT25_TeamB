@@ -6,6 +6,6 @@
 [![유튜브_링크](https://img.youtube.com/vi/0qXGm8eZc_Q/0.jpg)](https://www.youtube.com/watch?v=0qXGm8eZc_Q)
 
 #IOT_B조_PDF
-![발표_자료_PDF](IOT_Proposal)
+![발표_자료_PDF](IOT_Proposal.pdf)
 
 
